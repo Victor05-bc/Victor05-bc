@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27562171/README.md)
 <div align="center">
 
 ```
